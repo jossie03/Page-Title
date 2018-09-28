@@ -1,0 +1,18 @@
+body {
+    border: 10px solid black;
+    padding: 20px;
+    font-family: sans-serif;
+    font-size: 18px;
+}
+
+h1 {
+    color: black; font-family: oswald; font-weight: 800;
+}
+
+a {
+    color: red;
+}
+
+.reference {
+    color: rgb(70, 68, 68);
+}
